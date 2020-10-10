@@ -20,8 +20,7 @@
 
 Hi, I'm Aldrin Ong, a high school student 🤓 from Malaysia and I hope to study Computer Science at university. Beside's programming, I love sports 🏟️.
 
-**<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/International_Baccalaureate_Logo.svg/1200px-International_Baccalaureate_Logo.svg.png" width="10" /> International Baccalaurette**
-<a href="https://firebase.google.com"><img src="https://img.shields.io/badge/Firebase-Firestore-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a" />
+**<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/International_Baccalaureate_Logo.svg/1200px-International_Baccalaureate_Logo.svg.png" width="30" /> International Baccalaurette**
 ![](https://img.shields.io/badge/Flutter-percent_indicator-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Flutter-cloud_firestore-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Flutter-provider-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
