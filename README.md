@@ -30,11 +30,8 @@ const aldrin = {
     askMeAbout: ["Flutter", "Liverpool_FC", "Tennis"],
     technologies: {
         mobileApp: ["Android", "Flutter"],
-        webApp: ["HTML", "CSS"],
-        backEnd: {
-            firebase: ["Cloud_Firestore"]
-            python: ["flask"]
-        },
+        webApp: "HTML/CSS",
+        backEnd: ["Firebase", "python_flask"],
         databases: ["MySql", "sqlite"],
         misc: ["selenium", "Machine_Learning"]
     },
