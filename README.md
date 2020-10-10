@@ -24,7 +24,7 @@ Hi, I'm Aldrin Ong, a high school student 🤓 from Malaysia and I hope to study
 <br />
 
 ![](https://img.shields.io/badge/HL-Physics-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/HL-Mathematics_Analysis_& Approaches-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/HL-Mathematics_Analysis_&%Approaches-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/HL-Economics-informational?style=flat&&color=2bbc8a)
 ![](https://img.shields.io/badge/SL-English_Language_&Literature-informational?style=flat&&color=orange)
 ![](https://img.shields.io/badge/SL-Computer_Science-informational?style=flat&&color=orange)
