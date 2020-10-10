@@ -10,6 +10,7 @@
 </a>
 <a href="https://stackoverflow.com/users/13396396/aldrin-ong">
   <img align="left" alt="Aldrin's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
+</a>
 
 <br />
 <br />
