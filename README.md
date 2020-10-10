@@ -15,11 +15,11 @@
 <br />
 <br />
 
-Hi, I'm Aldrin Ong, a high school student 🤓 from Malaysia, I hope to study Computer Science at university. Beside's programming, I love sports 🏟️.
+Hi, I'm Aldrin Ong, a high school student 🤓 from Malaysia and I hope to study Computer Science at university. Beside's programming, I love sports 🏟️.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-**Talking about Personal Stuffs:**
+**All about me:**
 
 - 🔭 I’m currently working on [2wish](https://github.com/0n9aldrin/2wish)
 - 🌱 I’m currently learning [Machine Learning](https://www.udemy.com/course/machinelearning/?signupsuccess=1)
