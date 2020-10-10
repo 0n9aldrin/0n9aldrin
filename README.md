@@ -35,9 +35,8 @@ const aldrin = {
         databases: ["MySql", "sqlite"],
         misc: ["selenium", "Machine_Learning"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "[2wish](https://github.com/0n9aldrin/2wish)",
-    currentlyLearning: "[Machine_Learning](https://www.udemy.com/course/machinelearning/?signupsuccess=1)"
+    currentlyLearning: "[Machine_Learning](https://www.udemy.com/course/machinelearning/?signupsuccess=1)",
     funFact: "I represent my state in tennis."
 };
 ```
