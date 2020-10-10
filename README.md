@@ -24,9 +24,9 @@ Hi, I'm Aldrin Ong, a high school student 🤓 from Malaysia and I hope to study
 <br />
 
 ![](https://img.shields.io/badge/HL-Physics-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/HL-Mathematics_Analysis_&%Approaches-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/HL-Mathematics_Analysis_and_Approaches-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/HL-Economics-informational?style=flat&&color=2bbc8a)
-![](https://img.shields.io/badge/SL-English_Language_&Literature-informational?style=flat&&color=orange)
+![](https://img.shields.io/badge/SL-English_Language_and_Literature-informational?style=flat&&color=orange)
 ![](https://img.shields.io/badge/SL-Computer_Science-informational?style=flat&&color=orange)
 ![](https://img.shields.io/badge/SL-Chinese-informational?style=flat&&color=orange)
 
@@ -69,7 +69,11 @@ const aldrin = {
 
 **💬 Programming Languages:**
 ```text
-JavaScript               8 hrs 26 mins       ██████████████████░░░░░░░   74.81% 
-JSON                     2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.17% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+Python                   1539 hrs 26 mins            █████████████░░░░░░░░░░░░░    51.57%
+Flutter/Dart             1044 hrs 50 mins            ███████░░░░░░░░░░░░░░░░░░░    35.00%
+Java                     169 hrs 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░░    5.67%
+php                      86 hrs 42 mins              █░░░░░░░░░░░░░░░░░░░░░░░░░    2.90%
+Kotlin                   62 hrs 21 mins              █░░░░░░░░░░░░░░░░░░░░░░░░░    2.09%
+HTML                     55 hrs 51 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░░    1.87%
+Javascript               26 hrs 39 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░░    0.89%
 ```
