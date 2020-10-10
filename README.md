@@ -20,14 +20,6 @@ Hi, I'm Aldrin Ong, a high school student 🤓 from Malaysia and I hope to study
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **More about me:**
-
-- 🔭 I’m currently working on [2wish](https://github.com/0n9aldrin/2wish)
-- 🌱 I’m currently learning [Machine Learning](https://www.udemy.com/course/machinelearning/?signupsuccess=1)
-- 💬 Ask me about anything related to Liverpool FC.
-- 📫 How to reach me: 0n9aldrin@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I represent my state in tennis.
-
 ```javascript
 const aldrin = {
     pronouns: "He" | "Him",
