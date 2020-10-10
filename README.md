@@ -23,12 +23,12 @@ Hi, I'm Aldrin Ong, a high school student 🤓 from Malaysia and I hope to study
 **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/International_Baccalaureate_Logo.svg/1200px-International_Baccalaureate_Logo.svg.png" width="20" />  International Baccalaurette:**
 <br />
 
-![](https://img.shields.io/badge/HL-Physics-informational?style=flat&logo=atom&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/HL-Mathematics-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/HL-Economics-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/HL-Physics-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/HL-Physics-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/HL-Physics-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/HL-Physics-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/HL-Mathematics-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/HL-Economics-informational?style=flat&&color=2bbc8a)
+![](https://img.shields.io/badge/HL-Physics-informational?style=flat&&color=orange)
+![](https://img.shields.io/badge/HL-Physics-informational?style=flat&&color=orange)
+![](https://img.shields.io/badge/HL-Physics-informational?style=flat&&color=orange)
 
 
 
