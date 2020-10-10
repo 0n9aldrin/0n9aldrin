@@ -35,8 +35,8 @@ const aldrin = {
         databases: ["MySql", "sqlite"],
         misc: ["selenium", "Machine_Learning"]
     },
-    currentFocus: "[2wish](https://github.com/0n9aldrin/2wish)",
-    currentlyLearning: "[Machine_Learning](https://www.udemy.com/course/machinelearning/?signupsuccess=1)",
+    currentFocus: "2wish - In my pinned repository",
+    currentlyLearning: "Machine Learning - Udemy",
     funFact: "I represent my state in tennis."
 };
 ```
