@@ -11,6 +11,9 @@
 <a href="https://stackoverflow.com/users/13396396/aldrin-ong">
   <img align="left" alt="Aldrin's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
 </a>
+<a href="mailto:0n9aldrin@gmail.com">
+  <img align="left" alt="Aldrin's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />
+</a>
 
 <br />
 <br />
