@@ -19,7 +19,7 @@ Hi, I'm Aldrin Ong, a high school student 🤓 from Malaysia and I hope to study
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-**All about me:**
+**More about me:**
 
 - 🔭 I’m currently working on [2wish](https://github.com/0n9aldrin/2wish)
 - 🌱 I’m currently learning [Machine Learning](https://www.udemy.com/course/machinelearning/?signupsuccess=1)
@@ -27,5 +27,27 @@ Hi, I'm Aldrin Ong, a high school student 🤓 from Malaysia and I hope to study
 - 📫 How to reach me: 0n9aldrin@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I represent my state in tennis.
+
+```javascript
+const aldrin = {
+    pronouns: "He" | "Him",
+    code: ["Java", "Python", "Dart", "Kotlin", "php"],
+    askMeAbout: ["Flutter", "Liverpool_FC", "Tennis"],
+    technologies: {
+        mobileApp: ["Android", "Flutter"],
+        webApp: ["HTML", "CSS"],
+        backEnd: {
+            firebase: ["Cloud_Firestore"]
+            python: ["flask"]
+        },
+        databases: ["MySql", "sqlite"],
+        misc: ["selenium", "Machine_Learning"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "[2wish](https://github.com/0n9aldrin/2wish)",
+    currentlyLearning: "[Machine_Learning](https://www.udemy.com/course/machinelearning/?signupsuccess=1)"
+    funFact: "I represent my state in tennis."
+};
+```
 
 
