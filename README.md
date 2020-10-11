@@ -32,7 +32,7 @@ Hi, I'm Aldrin Ong, a high school student 🤓 from Malaysia and I hope to study
 
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="Programmer.gif" width="500" height="320" />
   
 **More about me:**
 ```javascript
