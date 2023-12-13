@@ -18,7 +18,7 @@
 <br />
 <br />
 
-Hi, I'm Aldrin Ong, a sophomore at Berkeley 🤓 from Malaysia. Beside's programming, I love sports 🏟️.
+Hi, I'm Aldrin Ong, a junior at Berkeley 🤓 from Malaysia. Beside's programming, I love sports 🏟️.
 
 **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/International_Baccalaureate_Logo.svg/1200px-International_Baccalaureate_Logo.svg.png" width="20" />  International Baccalaurette:**
 <br />
