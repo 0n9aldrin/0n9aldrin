@@ -20,15 +20,7 @@
 
 Hi, I'm Aldrin Ong, a junior at Berkeley 🤓 from Malaysia. Beside's programming, I love sports 🏟️.
 
-**<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/International_Baccalaureate_Logo.svg/1200px-International_Baccalaureate_Logo.svg.png" width="20" />  International Baccalaurette:**
-<br />
-
-![](https://img.shields.io/badge/HL-Physics-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/HL-Mathematics_Analysis_and_Approaches-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/HL-Economics-informational?style=flat&&color=2bbc8a)
-![](https://img.shields.io/badge/SL-English_Language_and_Literature-informational?style=flat&&color=orange)
-![](https://img.shields.io/badge/SL-Computer_Science-informational?style=flat&&color=orange)
-![](https://img.shields.io/badge/SL-Chinese-informational?style=flat&&color=orange)
+CHeckout my personal website: https://aldrin-ong.vercel.app
 
 
 
