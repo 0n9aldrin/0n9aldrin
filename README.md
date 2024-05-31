@@ -18,7 +18,7 @@
 <br />
 <br />
 
-Hi, I'm Aldrin Ong, a junior at Berkeley 🤓 from Malaysia. Beside's programming, I love sports 🏟️.
+Hi, I'm Aldrin Ong, a senior at Berkeley 🤓 from Malaysia. Beside's programming, I love sports 🏟️.
 
 Checkout my personal website: https://aldrin-ong.vercel.app
 
